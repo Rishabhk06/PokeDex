@@ -1,0 +1,82 @@
+.grid {
+  background: red;
+}
+
+.img {
+  height: 220px;
+  width: auto;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navbar {
+  background: black;
+  padding: 0;
+  margin: 0 0 50px 0;
+}
+
+.searchbox {
+  margin-inline-start: 100px;
+  width: 500px;
+  height: 30px;
+  padding-inline-start: 30px;
+  border-radius: 15px;
+  outline: none;
+  font-size: 20px;
+  margin-right: 170px;
+}
+
+.searchicon {
+  color: black;
+  position: absolute;
+  margin-inline-start: 300px;
+}
+
+.pokeimg {
+  height: 70px;
+  width: auto;
+}
+
+.pokeballimg {
+  height: 70px;
+  width: auto;
+  float: right;
+}
+
+.card {
+  cursor: grab;
+}
+
+/* Pokemon Card Details Section */
+.namedet {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.heading {
+  margin: 0;
+  margin-inline-start: 15px;
+}
+
+.progressBar {
+  height: 10px;
+  width: 100px;
+  border-radius: 20px;
+  margin: auto;
+  margin-inline-end: 5px;
+  transform: translateX(0);
+}
+
+.detparent {
+  height: 220px;
+}
